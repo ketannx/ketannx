@@ -1,3 +1,5 @@
+![My Image](https://github.com/ketannx/ketan996/blob/main/20250324_224528.jpg)
+
 # 💫 About Me:
 coder..<br>  .. clean code always looks like it was written by<br> someone who cares."
 
