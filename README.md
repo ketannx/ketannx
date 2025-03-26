@@ -15,17 +15,6 @@ Mongodb, Express, React, Nodejs , React Native , Python
 # About # Projects :-
 **1: Aevor, Ai ChatBot x Assistant**
 
-**·** Login Register and Google Auth
-
-**·** Ui Tailwind Morden Looking
-
-**·** Gemini Ai Latest Model Use 
-
-**·** Can Chat Ai And Speak Talk With Ai
-
-
-
-**2: Aevor, Ai ChatBot x Assistant**
 
 **·** Login Register and Google Auth
 
@@ -35,17 +24,32 @@ Mongodb, Express, React, Nodejs , React Native , Python
 
 **·** Can Chat Ai And Speak Talk With Ai
 
+___
 
 
-**3: Aevor, Ai ChatBot x Assistant**
+
+**2: Squawk, Chat App**
 
 **·** Login Register and Google Auth
 
 **·** Ui Tailwind Morden Looking
 
-**·** Gemini Ai Latest Model Use 
+**·** Real Time Chating and file sharing 
 
-**·** Can Chat Ai And Speak Talk With Ai
+**·** Can Use Ai When Talking
+
+___
+
+
+**3: CodeTalk, Convertation And Coding**
+
+**·** Login Register and Google Auth
+
+**·** Ui Tailwind Morden Looking
+
+**·** Can Code & RealTime Showing And Chat
+
+**·** Can Send Voice Massage And Generate Code with Ai
 
 
 ## 🌐 Socials:
