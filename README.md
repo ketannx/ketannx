@@ -24,6 +24,8 @@ Mongodb, Express, React, Nodejs , React Native , Python
 
 **·** Can Chat Ai And Speak Talk With Ai
 
+Link:
+
 ___
 
 
@@ -38,6 +40,8 @@ ___
 
 **·** Can Use Ai When Talking
 
+Link :
+
 ___
 
 
@@ -50,6 +54,8 @@ ___
 **·** Can Code & RealTime Showing And Chat
 
 **·** Can Send Voice Massage And Generate Code with Ai
+
+Link :
 
 
 ## 🌐 Socials:
