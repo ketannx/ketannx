@@ -1,4 +1,3 @@
-![My Image](https://github.com/ketannx/ketan996/blob/main/20250324_224528.jpg)
 
 Hey! 👋
 ____
