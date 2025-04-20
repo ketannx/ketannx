@@ -63,7 +63,7 @@ A smart tool that reviews your code and gives improvement suggestions using AI.
 **Tech Stack:**
 - Frontend: React + Tailwind CSS
 - Backend: Node.js + Express
-- AI: OpenAI/Gemini + NLP models
+- AI: Gemini Ai
 - Database: MongoDB
 
 ---
