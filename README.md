@@ -39,13 +39,32 @@ I'm a passionate full-stack developer with hands-on experience in **MERN stack**
 An advanced AI-powered chatbot with voice interaction and dual-auth system.
 
 **Features:**
-- Google OAuth 
+- Google OAuth via Firebase  
 - Email-password auth using **MongoDB + JWT + bcrypt.js**  
 - Real-time AI replies via **Gemini AI**
 - Voice-to-text & text-to-voice support
 - Modern UI using Tailwind CSS
 - Mobile-friendly, responsive design
 - Secure token-based login system
+
+---
+
+### [AI-Powered Code Review System](#)
+A smart tool that reviews your code and gives improvement suggestions using AI.
+
+**Features:**
+- Upload code and get instant AI-based reviews
+- Detects bad practices, optimizations, and improvements
+- Multilanguage support (JS, Python, etc.)
+- Uses GPT model for semantic code understanding
+- Developer-friendly UI to view suggestions with explanations
+- Save and download reviewed code
+
+**Tech Stack:**
+- Frontend: React + Tailwind CSS
+- Backend: Node.js + Express
+- AI: OpenAI/Gemini + NLP models
+- Database: MongoDB
 
 ---
 
@@ -58,18 +77,6 @@ A sleek real-time chat application with built-in AI tools.
 - AI assistant for code suggestions
 - Media and file sharing
 - Clean UI built with Tailwind CSS
-
----
-
-### [CodeTalk](#)
-A collaborative coding and communication platform for devs.
-
-**Features:**
-- Real-time code sharing
-- Voice & text messaging
-- AI-generated code snippets
-- Syntax highlighting and themes
-- Login system + user profiles
 
 ---
 
