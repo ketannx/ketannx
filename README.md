@@ -1,62 +1,35 @@
+# Hi there, I'm Ketan 👋
 
-Hey! 👋
-____
+## 🚀 About Me
+I'm a passionate developer with experience in MERN stack, React Native, and Python. I love building applications that integrate AI and provide seamless user experiences.
 
-i'm ketan
+## 🛠️ Tech Stack
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Mobile**: React Native
+- **AI Integration**: Gemini AI
+- **Others**: Python
 
-**·** *Currently*: Working On Android Development
+## 💼 Projects
+### [Aevor](#)
+An AI-powered chatbot with voice interaction capabilities.
+- Google Authentication
+- Modern UI with Tailwind CSS
+- Integrated with Gemini AI for real-time conversations
 
-**·** *Previously*: Doing Web Development
+### [Squawk](#)
+A real-time chat application with AI features.
+- Google Authentication
+- File sharing capabilities
+- AI assistance during chats
 
-# 💻 Tech Skills : -
-Mongodb, Express, React, Nodejs , React Native , Python
+### [CodeTalk](#)
+A platform for coding and communication.
+- Real-time code sharing
+- Voice messaging
+- AI-generated code snippets
 
-# About # Projects :-
-**1: Aevor, Ai ChatBot x Assistant**
-
-
-**·** Login Register and Google Auth
-
-**·** Ui Tailwind Morden Looking
-
-**·** Gemini Ai Latest Model Use 
-
-**·** Can Chat Ai And Speak Talk With Ai
-
-Link:
-
-___
-
-
-
-**2: Squawk, Chat App**
-
-**·** Login Register and Google Auth
-
-**·** Ui Tailwind Morden Looking
-
-**·** Real Time Chating and file sharing 
-
-**·** Can Use Ai When Talking
-
-Link :
-
-___
-
-
-**3: CodeTalk, Convertation And Coding**
-
-**·** Login Register and Google Auth
-
-**·** Ui Tailwind Morden Looking
-
-**·** Can Code & RealTime Showing And Chat
-
-**·** Can Send Voice Massage And Generate Code with Ai
-
-Link :
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ketann.js) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:scodesofficial@gamil.com) 
-
+## 📫 Connect with Me
+- [Instagram](https://instagram.com/ketann.js)
+- [Email](mailto:your-email@example.com)
