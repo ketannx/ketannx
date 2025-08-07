@@ -23,6 +23,12 @@ I'm a passionate full-stack developer with hands-on experience in **MENN stack**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
 ![bcrypt](https://img.shields.io/badge/-bcrypt-yellow?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+
+**OAuth Providers**  
+![Google](https://img.shields.io/badge/-Google-4285F4?logo=google&logoColor=white&style=for-the-badge)
+![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 **Mobile**  
 ![React Native](https://img.shields.io/badge/-React_Native-20232a?logo=react&logoColor=white&style=for-the-badge)
@@ -46,11 +52,11 @@ A Zoom-like app built with WebRTC for seamless video, voice, chat, and screen sh
 - Real-time video & audio calls  
 - Live chat in meeting rooms  
 - Screen sharing  
-- Google & custom auth  
+- Google, Facebook, and GitHub OAuth  
 - Meeting code system  
 - Mobile-responsive UI  
 
-**Tech Stack:** Next.js, Node.js, Express, WebRTC, Socket.IO, Tailwind CSS
+**Tech Stack:** Next.js, Node.js, Express, WebRTC, Socket.IO, Tailwind CSS, Firebase Auth
 
 ---
 
@@ -60,11 +66,11 @@ A smart AI chatbot powered by Gemini & ChatGPT with speech capabilities.
 **Features:**
 - Real-time AI replies using Gemini or ChatGPT  
 - Voice-to-text and text-to-voice support  
-- Dual authentication (Google + Email/Password)  
-- Mobile-friendly interface  
-- Chat history with secure token-based system  
+- Login with Google, GitHub, Facebook or Email/Password  
+- Chat history with secure token system  
+- Responsive and mobile-friendly design  
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Gemini AI, ChatGPT, JWT, Cloudinary
+**Tech Stack:** React, Node.js, Express, MongoDB, Firebase, Gemini AI, ChatGPT, JWT, Cloudinary
 
 ---
 
@@ -97,4 +103,3 @@ An online code collaboration tool with real-time updates and optional AI help.
 ---
 
 > “Code like a beast, vibe like a legend.”
-
