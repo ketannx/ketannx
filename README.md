@@ -1,16 +1,18 @@
 # Hi there, I'm Ketan 👋
 
 ## 🚀 About Me
-I'm a passionate full-stack developer with hands-on experience in **MERN stack**, **React Native**, and **Python**. I love building innovative and user-centric apps that integrate **AI** to solve real-world problems.
+I'm a passionate full-stack developer with hands-on experience in **MENN stack**, **React Native**, **TypeScript**, and **Python**. I love building innovative and user-centric apps that integrate **AI** to solve real-world problems.
 
-> Currently working on voice-based AI applications and real-time communication platforms.
+> Currently working on voice-based AI applications, real-time communication platforms, and freelance web projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 
 **Backend**  
@@ -61,7 +63,7 @@ A smart tool that reviews your code and gives improvement suggestions using AI.
 - Save and download reviewed code
 
 **Tech Stack:**
-- Frontend: React + Tailwind CSS
+- Frontend: Next.js + TypeScript + Tailwind CSS
 - Backend: Node.js + Express
 - AI: Gemini Ai
 - Database: MongoDB
@@ -80,6 +82,23 @@ A sleek real-time chat application with built-in AI tools.
 
 ---
 
+### [Freelance Portfolio Builder](#)
+A minimal and animated portfolio generator for developers and freelancers.
+
+**Features:**
+- Choose between templates (Editor, Developer, Designer)
+- Add your own skills, projects, and social links
+- Download a complete portfolio in seconds
+- Built for speed and simplicity
+- Eye-catching animations using **Framer Motion** and **GSAP**
+
+**Tech Stack:**
+- Frontend: Next.js + Tailwind CSS + TypeScript
+- Backend: Node.js + Express
+- Storage: MongoDB
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketannx&show_icons=true&theme=tokyonight)
@@ -94,4 +113,4 @@ A sleek real-time chat application with built-in AI tools.
 
 ---
 
-> “Code like a beast, vibe like a legend.”  
+> “Code like a beast, vibe like a legend.”
