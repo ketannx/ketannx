@@ -29,6 +29,8 @@ I'm a passionate full-stack developer with hands-on experience in **MENN stack**
 
 **AI Integration**  
 ![Gemini AI](https://img.shields.io/badge/-Gemini_AI-blueviolet?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?logo=openai&logoColor=white&style=for-the-badge)
+![Ollama](https://img.shields.io/badge/-Ollama-black?style=for-the-badge)
 
 **Others**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -37,65 +39,46 @@ I'm a passionate full-stack developer with hands-on experience in **MENN stack**
 
 ## 💼 Featured Projects
 
-### [Aevor](#)
-An advanced AI-powered chatbot with voice interaction and dual-auth system.
+### 🔊 [ZoomX](#) — Real-Time Communication Platform
+A Zoom-like app built with WebRTC for seamless video, voice, chat, and screen sharing.
 
 **Features:**
-- Google OAuth via Firebase  
-- Email-password auth using **MongoDB + JWT + bcrypt.js**  
-- Real-time AI replies via **Gemini AI**
-- Voice-to-text & text-to-voice support
-- Modern UI using Tailwind CSS
-- Mobile-friendly, responsive design
-- Secure token-based login system
+- Real-time video & audio calls  
+- Live chat in meeting rooms  
+- Screen sharing  
+- Google & custom auth  
+- Meeting code system  
+- Mobile-responsive UI  
+
+**Tech Stack:** Next.js, Node.js, Express, WebRTC, Socket.IO, Tailwind CSS
 
 ---
 
-### [AI-Powered Code Review System](#)
-A smart tool that reviews your code and gives improvement suggestions using AI.
+### 🤖 [Aevor AI](#) — AI Chatbot with Voice Interaction
+A smart AI chatbot powered by Gemini & ChatGPT with speech capabilities.
 
 **Features:**
-- Upload code and get instant AI-based reviews
-- Detects bad practices, optimizations, and improvements
-- Multilanguage support (JS, Python, etc.)
-- Uses GPT model for semantic code understanding
-- Developer-friendly UI to view suggestions with explanations
-- Save and download reviewed code
+- Real-time AI replies using Gemini or ChatGPT  
+- Voice-to-text and text-to-voice support  
+- Dual authentication (Google + Email/Password)  
+- Mobile-friendly interface  
+- Chat history with secure token-based system  
 
-**Tech Stack:**
-- Frontend: Next.js + TypeScript + Tailwind CSS
-- Backend: Node.js + Express
-- AI: Gemini Ai
-- Database: MongoDB
+**Tech Stack:** React, Node.js, Express, MongoDB, Gemini AI, ChatGPT, JWT, Cloudinary
 
 ---
 
-### [Squawk](#)
-A sleek real-time chat application with built-in AI tools.
+### 👨‍💻 [CodeTogether](#) — Collaborative Code Editor
+An online code collaboration tool with real-time updates and optional AI help.
 
 **Features:**
-- Google Authentication
-- Live chat with multiple users
-- AI assistant for code suggestions
-- Media and file sharing
-- Clean UI built with Tailwind CSS
+- Real-time code collaboration  
+- Multiple programming languages (JS, Python, etc.)  
+- Optional AI-powered code suggestions  
+- Save & load projects  
+- Live user presence  
 
----
-
-### [Freelance Portfolio Builder](#)
-A minimal and animated portfolio generator for developers and freelancers.
-
-**Features:**
-- Choose between templates (Editor, Developer, Designer)
-- Add your own skills, projects, and social links
-- Download a complete portfolio in seconds
-- Built for speed and simplicity
-- Eye-catching animations using **Framer Motion** and **GSAP**
-
-**Tech Stack:**
-- Frontend: Next.js + Tailwind CSS + TypeScript
-- Backend: Node.js + Express
-- Storage: MongoDB
+**Tech Stack:** React, Next.js, Node.js, Express, WebSockets, MongoDB, Gemini AI
 
 ---
 
@@ -114,3 +97,4 @@ A minimal and animated portfolio generator for developers and freelancers.
 ---
 
 > “Code like a beast, vibe like a legend.”
+
