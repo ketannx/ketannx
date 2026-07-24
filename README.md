@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ketan Bhandwal</h1>
+
 <h3 align="center">
 Founder @ Valtrix Studio | Full Stack MERN Developer | Next.js & React Native Specialist
 </h3>
@@ -15,7 +16,7 @@ Building Fast, Scalable & SEO-Optimized Web and Mobile Applications 🚀
 
 ## 🧠 About Ketan Bhandwal
 
-I am a **Full Stack MERN Developer from India**, Founder of **Veltrix Studio**, specializing in:
+I am a **Full Stack MERN Developer from India**, Founder of **Valtrix Studio**, specializing in:
 
 - High-performance **Next.js applications**
 - SEO-optimized websites
@@ -35,98 +36,56 @@ I build modern, user-centric digital products for startups, creators, and global
 - 📈 SEO-Optimized Agency Platforms
 - 🛒 Full E-Commerce Development (MERN)
 - 📱 Cross-Platform Mobile Apps (React Native)
-- 🤖 AI Integration (Gemini, Voice AI)
+- 🤖 AI Integration (Gemini, OpenAI, Voice AI)
 - ⚡ Real-Time Apps (WebRTC + Socket.IO)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚡ Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=white)
-
----
-
-### 🔥 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
----
-
-### 🤖 AI & Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-blueviolet?style=for-the-badge)
-
----
-
-## 💼 Featured Projects
-
-### 🚀 Harshming — Digital Agency Platform
-- Fully SEO-Optimized
-- High-performance animations
-- Lead generation system
-- Built for real client
-
-**Stack:** Next.js, Tailwind CSS, Node.js
-
----
-
-### 🏠 SwiftShiftShine — Service Booking Platform (Canada)
-- Real-time booking engine
-- Dynamic pricing logic
-- Admin dashboard
-- Automated email workflows
-
-**Stack:** React, Express, MongoDB
-
----
-
-### 🛒 HimanShop — E-Commerce + Portfolio
-- Secure Stripe checkout
-- JWT authentication
-- Redux state management
-- Admin control panel
-
-**Stack:** MERN Stack
-
----
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketannx&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketannx&layout=compact&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,nodejs,express,mongodb,postgresql,supabase,firebase,redis,docker,kubernetes,nginx,vercel,cloudflare,aws,gcp,git,github,linux,bash,vscode,figma,python,cpp,java,prisma,graphql,redux,zustand,threejs,vite,npm,pnpm,yarn,postman&perline=10" />
+
 </p>
 
----
+<p align="center">
 
-## 🌍 Currently Building
+<img src="https://go-skill-icons.vercel.app/api/icons?i=socketio,webrtc,framer,gsap,expo,reactnative,mongoose,opencv,tensorflow,ollama,gemini,openai,claude,eslint,prettier" />
 
-- AI-powered SaaS tools
-- Voice-based social applications
-- Real-time video calling platforms
-- Scalable freelance client systems
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ketan_Bhandwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valtrixstudiocom/)
+<p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-@ketann.js-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ketann.js)
+<a href="https://www.linkedin.com/in/valtrixstudiocom/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<a href="https://instagram.com/ketann.js">
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+
+<a href="https://github.com/ketannx">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+<a href="https://discord.com/users/ketann.js">
+<img src="https://skillicons.dev/icons?i=discord" height="55"/>
+</a>
+
+</p>
+
+---
 
 ## ⚡ Personal Brand Statement
 
-> Ketan Bhandwal — Full Stack MERN Developer & Founder of Veltrix Studio  
+> **Ketan Bhandwal** — Full Stack MERN Developer & Founder of **Valtrix Studio**  
 > Building Fast, SEO-Optimized & AI-Powered Digital Products.
